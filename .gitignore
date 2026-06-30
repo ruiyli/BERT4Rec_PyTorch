@@ -1,0 +1,36 @@
+# Data files
+*.pkl
+*.pth
+*.pt
+*.bin
+
+# Dataset files
+*.dat
+*.csv
+# *.txt  # Commented out to allow requirements.txt
+
+# Model checkpoints
+best_model_*
+checkpoint_*
+
+# Output directories
+output/
+logs/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
